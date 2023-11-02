@@ -265,14 +265,14 @@ h6 {
   color: #fff;
   margin-bottom: 50px;
   font-size: 26px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Mooli";
 }
 
 #hero p span {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
+  border-bottom: 3px solid #37b3ed;
 }
 
 @media (min-width: 1024px) {
@@ -287,10 +287,9 @@ h6 {
     line-height: 36px;
   }
 
-  #hero h2 {
-    font-size: 18px;
-    line-height: 24px;
-    margin-bottom: 30px;
+  #hero p {
+    font-size: 23px;
+    line-height: 28px;
   }
 }
 
